@@ -8,4 +8,4 @@ Ya, html biasanya digunakan untuk membuat sebuah kerangka halaman website yang a
 
 Nah, materi tentang _tag_ pada HTML ini dapat anda lihat pada folder `tag` yang sudah saya buat.
 
-Terimakasih....
+Terimakasih...😊
