@@ -35,6 +35,6 @@ Bisa dilihat pada contoh kode diatas bahwa nama tag selalu di tulis di dalam seb
 
 Untuk penulisan nama tag itu tidak boleh sembarangan dan harus sesuai dengan daftar tag yang tersedia pada html itu sendiri. Jadi kalian tidak boleh sembarangan memberikan nama tag seperti `<juned>...</juned>` atau sebagainya. Selain itu, tidak semua nama tag yang ada pada HTML itu memiliki tag penutup, ada beberapa tag pada html yang tidak memiliki penutup tag seperti tag `<input>`, `<img>` dan lain sebagainya.
 
-Nah, demikianlah penjelasan dari tag pada HTML dan bagaimana cara penulisannya. Saya harap anda dapat memahami tentang tag pada HTML ini dan bagaimana cara penulisannya.
+Nah, demikianlah penjelasan dari tag pada HTML dan bagaimana cara penulisannya. Saya harap anda dapat memahami materi tentang tag pada HTML ini, adapun tentang tag - tag lain pada HTML yang sering digunakan oleh para programmer website akan dijelaskan pada materi - materi selanjutnya.
 
 Terimakasih...😊
