@@ -38,7 +38,7 @@ Contoh:
 _Artinya dengan kalian mengetikkan kode diatas, maka kalian ingin menampilkan sebuah gambar dengan kategori `computer` dari yang bernama situs `unsplash` yang memiliki ukuran 40x40px_
 
 \*Desclaimer:
-Unsplash merupakan salah satu situs penyedia berbagai gambar menarik dari seluruh dunia yang bersifat `gratis`, jadi bagi kalian yang sedang membutuhkan gambar - gambar yang keren yang ingin di tampilkan pada website yang telah kalian buat, kalian bisa langsung mengunjugin situs ![unsplash](https://www.unsplash.com).
+Unsplash merupakan salah satu situs penyedia berbagai gambar menarik dari seluruh dunia yang bersifat `gratis`, jadi bagi kalian yang sedang membutuhkan gambar - gambar yang keren yang ingin di tampilkan pada website yang telah kalian buat, kalian bisa langsung mengunjungi situs unsplash pada alamat `https://www.unsplash.com`.
 
 # OH YA SATU LAGI!
 
